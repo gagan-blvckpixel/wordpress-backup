@@ -1,0 +1,63 @@
+
+@font-face { 
+     font-family: 'macosx';
+     src:    url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/macosx/._avenir-black.eot') format('embedded-opentype'),
+             url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/macosx/._avenir-black.eot?#iefix') format('embedded-opentype'),
+             url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/macosx/._avenir-black.ttf') format('truetype'),
+             url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/macosx/._avenir-black.woff') format('woff'),
+             url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/macosx/._avenir-black.woff2') format('woff2');
+     font-style:  normal;
+     font-weight: 900;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'macosx';
+     src:    url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/macosx/._logo-what-font-is.svg#macosx') format('svg');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'avenir-black';
+     src:    url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/avenir-black/avenir-black.eot') format('embedded-opentype'),
+             url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/avenir-black/avenir-black.eot?#iefix') format('embedded-opentype'),
+             url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/avenir-black/avenir-black.ttf') format('truetype'),
+             url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/avenir-black/avenir-black.woff') format('woff'),
+             url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/avenir-black/avenir-black.woff2') format('woff2');
+     font-style:  normal;
+     font-weight: 900;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'avenir-black';
+     src:    url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/avenir-black/logo-what-font-is.svg#avenir-black') format('svg');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'css';
+     src:    url('https://kairos.blvckpixel.com/wp-content/uploads/avia_fonts/type_fonts/css/logo-what-font-is.svg#css') format('svg');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+
+
+.editor-block-list__block,
+.editor-block-list__block p {background-color:#ffffff; color:#41505d; font-size:15px;}
+.editor-block-list__block h1,
+.editor-block-list__block h2,
+.editor-block-list__block h3,
+.editor-block-list__block h4,
+.editor-block-list__block h5,
+.editor-block-list__block h6 {color:#003f7d;}
+.editor-post-title__block textarea {color:#000000; background-color:#ffffff;}
+.editor-block-list__block a,
+.editor-block-list__block strong,
+.editor-block-list__block b,
+.editor-block-list__block b a,
+.editor-block-list__block strong a {color:#f46a1b;}
+.editor-block-list__block .wp-block-heading,
+.editor-post-title__block textarea {font-family:'avenir-black', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, Arial, sans-serif;}
+.editor-block-list__block {font-family:'arial', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, sans-serif;}

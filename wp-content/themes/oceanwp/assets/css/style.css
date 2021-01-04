@@ -1,0 +1,118 @@
+body
+{
+	font-family: 'Arial', sans-serif;
+}
+.p-2 {
+    padding: 0.5rem!important;
+    display: inherit;
+}
+.decision-making,
+.slider-main,
+.mini-slider
+{
+	width: 95%;
+	margin: 0 auto;
+}
+.decision-making .box{
+	background: #F2F2F2;
+	border-radius: 10px;
+	padding: 9px 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.decision-making .box .left{
+    margin-right: 65px;
+}
+.decision-making .box .left p{
+    margin: 0;
+    font-family: 'Avenir', sans-serif;
+    font-size: 20px;
+    line-height: 27px;
+}
+.decision-making .box .left p.one{}
+.decision-making .box .left p.two{}
+.decision-making .box .right{}
+.decision-making .box .right img{}
+.decision-making span{
+	color:  #f13e06;
+}
+.slider-main{
+	margin-top: 40px;
+}
+.slider-main .carousel-item{
+    height: 400px;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: 50% 50% !important;
+    border-radius: 10px;
+}
+.slider-main .carousel-indicators li
+{
+	width: 5px;
+	height: 5px;
+	border-radius: 10px;
+	margin: 0 7px;
+}
+
+.slider-main .carousel-indicators li.active
+{
+	width: 10px;
+	height: 10px;
+}
+
+.slider-main .carousel-indicators
+{
+	display: flex;
+	align-items: center;
+}
+.mini-slider{
+    margin: 50px 0;
+}
+.mini-slider .slider-image{
+	background-repeat: no-repeat !important;
+	background-size: auto 90px !important;
+	background-position: 50% 50% !important;
+	padding: 57px 0;
+}
+
+.actualites{
+	background: #FAFAFA;
+	padding: 150px 0;
+}
+.actualites .div{
+	box-shadow: 0px 0px 18px #e8e5e5;
+}
+.evenements{
+	background: #fff;
+	margin-top: 75px;
+	padding: 150px 0;
+}
+.evenements .div{
+    box-shadow: 0px 0px 18px #e8e5e5;
+}
+.erp{
+	background: #FAFAFA;
+	margin-top: 75px;
+	padding: 150px 0;
+}
+.erp .div{
+    box-shadow: 0px 0px 18px #e8e5e5;
+}
+.question{
+	background: #fff;
+	margin-top: 75px;
+	padding: 150px 0;
+}
+.question .div{
+   box-shadow: 0px 0px 18px #e8e5e5;
+}
+.link{
+	margin-top: 30px;
+	text-align: center;
+}
+footer{}
+footer .detail-list{}
+footer .p-2{
+	display: block;
+}
